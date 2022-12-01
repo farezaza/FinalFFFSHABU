@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.AssemblyInfo.cs
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FinalShabu\bin\Debug\net6.0\FinalShabu.exe
+C:\Users\User\Desktop\FinalShabu\bin\Debug\net6.0\FinalShabu.deps.json
+C:\Users\User\Desktop\FinalShabu\bin\Debug\net6.0\FinalShabu.runtimeconfig.json
+C:\Users\User\Desktop\FinalShabu\bin\Debug\net6.0\FinalShabu.dll
+C:\Users\User\Desktop\FinalShabu\bin\Debug\net6.0\FinalShabu.pdb
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.dll
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\refint\FinalShabu.dll
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.pdb
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\FinalShabu.genruntimeconfig.cache
+C:\Users\User\Desktop\FinalShabu\obj\Debug\net6.0\ref\FinalShabu.dll
